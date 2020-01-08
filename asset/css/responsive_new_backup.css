@@ -1,0 +1,747 @@
+@media (max-width: 767px){
+
+.mod-position2 {
+
+	margin-top: 30px;
+}
+
+
+#layanan_isi_download .slider ul li img{
+	width: 100%;
+	margin: 0 auto;
+}
+
+#layanan_isi_download .layanan_isi-download1{
+	font-size: 25px;
+	padding: 0px;
+	margin-top: 5%;
+	width: 70%;
+}
+
+
+#download1{
+	width: 70%;
+	height: 20px;
+}
+
+#download .download1 p{
+	font-size: 25px;
+}
+.download1_detail{
+ padding-left:0%; 
+ padding-right:0%;
+}
+
+#download .download2 .foto1{
+  float: none;
+}
+
+#download .download2 .foto2{
+  float: none;
+}
+
+.image-border-hover:active .image-border-hover-desc {
+        opacity: 1;
+    }
+
+.image-border-hover{
+	display:flex;
+    align-items:center;
+	width: 100%;
+	margin-left: 0px;
+	margin-bottom: 10%;
+}
+
+.image-border-hover img{
+	width: 70%;
+	height: 100%;
+
+}
+
+.image-border-hover .image-border-hover-desc{
+	display:flex;
+    align-items:center;
+	padding-top: 0%;
+}
+
+.image-border-hover p{
+	margin: 0;
+	position: center;
+	border-radius: 40%;
+}
+
+/* .brand{
+	width: 100%;
+} */
+
+#whatis .image{
+	margin-left: 0%;
+}
+
+#blog{
+	padding-top: 0%;
+}
+
+/*button.accordion{
+	padding-left: 0%;
+	padding-right: 0%; 
+}*/
+.faq-detail{
+	padding-left: 0%;
+	padding-right: 0%; 
+}
+
+#syaratKetentuan .kotak{
+	width: 100%;
+}
+
+#syaratKetentuan .single-about-detail h2{
+	text-align: center;
+	align-items:center;
+}
+
+#syaratKetentuan .single-about-detail .line{
+    display: block;
+    text-align: -webkit-center;
+    margin: auto;
+}
+
+#hubungikami_detail .row{
+	margin-left: 0%;
+	margin-right: 0%;
+	margin-top: 20%;
+}
+
+/*#layanan_isi_detail1 .container{
+	margin-top: -100%;
+}*/
+
+#layanan_isi_detail1 h2{
+	font-size: 200%;
+}
+
+#joinus h2{
+	font-size: 300%;
+}
+
+#layanan_isi_download .layanan_isi-download2 img ,
+#layanan_isi_download .layanan_isi-download2 img, 
+#layanan_isi_download .foto_download img{
+  margin: 0 auto;
+}
+
+#layanan_isi_download .layanan_isi-download1 p{
+	font-size: 100%;
+}
+
+.layanan_isi-download1_detail p{
+	text-align: center;
+}
+
+.layanan_isi-download3{
+	width: 	100%;
+}
+
+
+#how-it-work .truknya img ,#layanan_isi_detail3_msend .truknya img{
+    width: 40%;
+    height: 15%;
+    margin: 0 auto;
+    margin-bottom: 10%;
+}
+
+#whatis{
+	padding-top: 20%;
+}
+
+#whatis .img-wrapper{
+	padding: 0px;
+	/*margin-left: -1%;*/
+}
+#join_mangcar .section{
+	background: red;
+}
+
+.card{
+	margin-bottom: 10%;
+}
+
+.card-block h3{
+	font-size: 200%;
+	padding: 0px;
+}
+.card-block p{
+	font-size: 70%;
+	 padding-bottom: 0px;
+}
+
+.fitur_mmart img{
+	height: 70%;
+	width: 70%;
+}
+.fitur_mmart_detail{
+	padding-bottom: 10%;
+}
+
+.join_mmart{
+	width: 100%;
+	height: 100%;
+}
+
+.join_mmart{
+  background: transparent;
+}
+
+.join_mmart_detail1{
+   font-size:40px; 
+   font-weight: bold; 
+   color:#FFF;
+}
+
+.join_mmart_detail2{
+    font-size:20px; 
+    color:white;
+}
+
+.join_mfood_judul{
+   font-size:220%; 
+   font-style: bold; 
+   margin-top:40px;
+}
+
+.join_mfood_detail{
+   font-size:20px;
+}
+
+.join_mfood_img img{
+  width: 90%; 
+  height: 90%;
+  padding-bottom: 10%;
+}
+
+.mservice_content img{
+	margin:10% auto;
+}
+
+
+.join_mride_desc ,.join_mcar_desc{
+	width: 100%;
+}
+
+.mbr-figure__img{
+width: 100%;
+height: 100%;
+}
+
+.layanan_isi-join-judul {
+    width: 100%;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 30px;
+}
+
+.join_mcar_foto img{
+   width: 100%;
+   height: 100%;
+
+}
+
+.join_mmasage_judul{
+	height: 80%;
+}
+
+.datadiri, .datakendaraan{
+	width: 100%;
+	padding: 0%;
+}
+
+.join_mmasage_form{
+	padding: 0%;
+}
+
+.join_mservice_foto{
+	height: 100%;
+}
+
+.tipe_mfood{
+   
+    height: 200px;
+    padding: 0px;
+    border-radius: 5px;
+}
+.tipe_mfood a{
+	margin-top: 10%;
+}
+	.join_mmasage_form h1{
+		text-align: center;
+	}
+
+
+#footer .brand{
+	margin-left: -15%;
+}
+
+#footer{
+	height: 200px;
+	width: 100%;
+	padding: 0px;
+	margin: 0px;
+	padding-top: 10%;
+
+}
+
+#footer .logo{
+	
+	height: 100%;
+}
+
+#footer .logo h1 {
+	font-size: 120%;
+}
+
+#footer .copyright{
+	font-size: 10px;
+}
+
+#footer .brand_slogan{
+	font-size: 13px;
+	margin-top: -10%;
+}
+
+#footer .follow{
+	margin-top: 5%;
+	padding: 0px;
+	align-items:right;
+}
+
+#footer .color-1 {
+	margin-left: 0%;
+	font-size: 20px;
+	padding: 0px;
+
+	float: right;
+}
+
+#footer .mg-add3 {
+	padding: 0px;
+
+}
+#footer .inline-list {
+	padding: 0px;
+	width: 100%;
+	margin-left: 0px;
+    margin-right: 0px;
+	
+}
+
+#footer .inline-list li{
+    float: right;
+    margin-left: 11px;
+   }
+
+#footer .sosmed{
+	padding: 0px;
+	width: 100%;
+	height: 100%;
+}
+
+#footer .fa-facebook,#footer .fa-twitter,#footer .fa-google-plus,#footer .fa-instagram{
+	width: 25px;
+    height: 25px;
+    font-size: 13px;
+    line-height: 30px;
+}
+
+.img1 figcaption {
+        position: absolute;
+        /*left: 0;*/
+        top: 0;
+        width: 93%;
+        /*height: 100%;*/
+        background-color: #fff;
+        color: white;
+        text-align: center;
+        opacity: 0;
+        /*transition: all 0.3s ease-in-out;
+        margin: 0;
+        margin-left: 30px;*/
+
+        border-radius: 5px;
+    }
+
+.img1 .home_link{
+	margin: 0 auto;
+	 position: absolute;
+        /*left: 0;*/
+        right: 0px;
+        top: 0;
+        width: 93%;
+        height: 100%;
+        background-color: #fff;
+        color: white;
+        text-align: center;
+        opacity: 0;
+        /*transition: all 0.3s ease-in-out;
+        margin: 0;
+        margin-left: 30px;*/
+
+        border-radius: 5px;
+}
+
+/*#blog .img1{
+	width: 100%;
+	height: 100%;
+}*/
+.join-mangjek img {
+
+	width: 100%;
+
+	
+
+}
+
+.join-mangjek {
+
+	margin-top: 10%;
+}
+
+}
+
+
+
+
+
+
+@media (min-width: 768px) and (max-width: 991px){
+
+
+
+#layanan_isi_download .slider ul li img{
+	width: 100%;
+	margin: 0 auto;
+}
+
+#layanan_isi_download .layanan_isi-download1{
+	font-size: 25px;
+	padding: 0px;
+	margin-top: 5%;
+	width: 70%;
+}
+
+
+#download1{
+	width: 70%;
+	height: 20px;
+}
+
+#download .download1 p{
+	font-size: 25px;
+}
+.download1_detail{
+ padding-left:0%; 
+ padding-right:0%;
+}
+
+#download .download2 .foto1{
+  float: none;
+}
+
+#download .download2 .foto2{
+  float: none;
+}
+
+.image-border-hover:active .image-border-hover-desc {
+        opacity: 1;
+    }
+
+.image-border-hover{
+	display:flex;
+    align-items:center;
+	width: 70%;
+	margin-left: 15%;
+	margin-bottom: 10%;
+}
+
+.image-border-hover img{
+	width: 30%;
+	height: 50%;
+
+}
+
+.image-border-hover .image-border-hover-desc{
+	display:flex;
+    align-items:center;
+	padding-top: 0%;
+}
+
+.image-border-hover p{
+	margin: 0;
+	position: center;
+	border-radius: 40%;
+}
+
+/*.brand{
+	width: 100%;
+}*/
+
+#whatis .image{
+	margin-left: 0%;
+}
+
+#blog{
+	padding-top: 0%;
+}
+
+/*button.accordion{
+	padding-left: 0%;
+	padding-right: 0%; 
+}*/
+.faq-detail{
+	padding-left: 0%;
+	padding-right: 0%; 
+}
+
+#syaratKetentuan .kotak{
+	width: 100%;
+}
+
+#syaratKetentuan .single-about-detail h2{
+	text-align: center;
+	align-items:center;
+}
+
+#syaratKetentuan .single-about-detail .line{
+    display: block;
+    text-align: -webkit-center;
+    margin: auto;
+}
+
+#hubungikami_detail .row{
+	margin-left: 0%;
+	margin-right: 0%;
+	margin-top: 20%;
+}
+
+/*#layanan_isi_detail1 .container{
+	margin-top: -100%;
+}*/
+
+#layanan_isi_detail1 h2{
+	font-size: 200%;
+}
+
+#joinus h2{
+	font-size: 300%;
+}
+
+#layanan_isi_download .layanan_isi-download2 img , 
+#layanan_isi_download .foto_download img{
+  margin: 0 auto;
+}
+
+#layanan_isi_download .layanan_isi-download1 p{
+	font-size: 100%;
+}
+
+.layanan_isi-download1_detail p{
+	text-align: center;
+}
+
+#.layanan_isi-download .slider ul li{
+	margin: auto;
+}
+
+
+#how-it-work .truknya img ,#layanan_isi_detail3_msend .truknya img{
+    width: 40%;
+    height: 15%;
+    margin: 0 auto;
+    margin-bottom: 10%;
+}
+
+#whatis{
+	padding-top: 20%;
+}
+
+#whatis .text{
+	margin-right: 0px;
+}
+
+#whatis .img-wrapper{
+	padding: 0px;
+	/*margin-left: -1%;*/
+}
+#join_mangcar .section{
+	background: red;
+}
+
+.card{
+	margin-bottom: 10%;
+}
+
+.card-block h3{
+	font-size: 200%;
+	padding: 0px;
+}
+.card-block p{
+	font-size: 70%;
+	 padding-bottom: 0px;
+}
+
+.fitur_mmart img{
+	height: 70%;
+	width: 70%;
+}
+.fitur_mmart_detail{
+	padding-bottom: 10%;
+}
+
+.join_mmart{
+	width: 100%;
+	height: 100%;
+}
+
+.join_mmart{
+  background: transparent;
+}
+
+.join_mmart_detail1{
+   font-size:40px; 
+   font-weight: bold; 
+   color:#FFF;
+}
+
+.join_mmart_detail2{
+    font-size:20px; 
+    color:white;
+}
+
+.join_mfood_judul{
+   font-size:220%; 
+   font-style: bold; 
+   margin-top:40px;
+}
+
+.join_mfood_detail{
+   font-size:20px;
+}
+
+.join_mfood_img img{
+  width: 90%; 
+  height: 90%;
+  padding-bottom: 10%;
+}
+
+.mservice_content img{
+	display: flex;
+	margin-top: 50%;
+}
+
+/*.join_mride_desc, .join_mcar_desc{
+	width: 100%;
+}*/
+
+.mbr-figure__img{
+width: 100%;
+height: 100%;
+}
+
+.layanan_isi-join-judul {
+    width: 100%;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 30px;
+}
+
+.join_mcar_foto img{
+   width: 100%;
+   height: 100%;
+
+}
+
+
+.join_mmasage_judul{
+	height: 80%;
+}
+
+.datadiri, .datakendaraan{
+	width: 100%;
+	padding: 0%;
+}
+
+.join_mmasage_form{
+	padding: 0%;
+}
+
+.join_mservice_foto{
+	height: 100%;
+}
+
+.tipe_mfood{
+    height: 200px;
+    padding: 0px;
+    border-radius: 5px;
+}
+.tipe_mfood a{
+	margin-top: 10%;
+}
+
+.join_mmasage_form h1{
+		text-align: center;
+	}
+
+.mg-add3 {
+
+	margin-top: 10px;
+}
+
+#footer{
+	height: 200px;
+	width: 100%;
+	padding: 0px;
+	margin: 0px;
+
+
+}
+
+#footer .brand{
+	margin-left: -25%;
+}
+
+#footer .brand h1 {
+	font-size: 120%;
+}
+
+#footer .copyright{
+	font-size: 10px;
+}
+
+#footer .brand_slogan{
+	font-size: 80%;
+	margin-top: -10%;
+}
+
+#footer .color-1 {
+	margin-left: 40%;
+}
+
+.join-mangjek img {
+
+	width: 100%;
+
+	
+
+}
+
+.join-mangjek {
+
+	margin-top: 10%;
+}
+
+}
+
+
+
+
+
+

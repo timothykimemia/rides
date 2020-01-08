@@ -1,0 +1,114 @@
+[25-Nov-2016 10:23:32 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/u5350550/public_html/admin/application/controllers/Listdriver.php on line 1
+[25-Nov-2016 10:25:47 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/u5350550/public_html/admin/application/controllers/Listdriver.php on line 1
+[16-Dec-2016 04:13:56 UTC] PHP Fatal error:  Call to undefined method Driver_m::getTotalTransaksi() in /home/u5350550/public_html/admin/application/controllers/Dashboard.php on line 48
+[16-Dec-2016 04:16:25 UTC] PHP Fatal error:  Call to undefined method Driver_m::getSaldoDriver() in /home/u5350550/public_html/admin/application/controllers/Listdriver.php on line 38
+[16-Dec-2016 04:16:38 UTC] PHP Fatal error:  Call to undefined method Driver_m::getTotalTransaksi() in /home/u5350550/public_html/admin/application/controllers/Dashboard.php on line 48
+[16-Dec-2016 04:17:22 UTC] PHP Fatal error:  Call to undefined method Driver_m::getTotalTransaksi() in /home/u5350550/public_html/admin/application/controllers/Dashboard.php on line 48
+[16-Dec-2016 04:17:28 UTC] PHP Fatal error:  Call to undefined method Driver_m::getSaldoDriver() in /home/u5350550/public_html/admin/application/controllers/Listdriver.php on line 38
+[16-Dec-2016 04:22:52 UTC] PHP Fatal error:  Call to undefined method Driver_m::getSaldoDriver() in /home/u5350550/public_html/admin/application/controllers/Listdriver.php on line 38
+[16-Dec-2016 04:23:16 UTC] PHP Fatal error:  Call to undefined method Driver_m::getSaldoDriver() in /home/u5350550/public_html/admin/application/controllers/Listdriver.php on line 38
+[16-Dec-2016 05:03:38 UTC] PHP Fatal error:  Call to undefined method Driver_m::getSaldoDriver() in /home/u5350550/public_html/admin/application/controllers/Listdriver.php on line 38
+[16-Dec-2016 05:03:40 UTC] PHP Fatal error:  Call to undefined method Driver_m::getSaldoDriver() in /home/u5350550/public_html/admin/application/controllers/Listdriver.php on line 38
+[16-Dec-2016 05:24:11 UTC] PHP Fatal error:  Call to undefined method Driver_m::getSaldoDriver() in /home/u5350550/public_html/admin/application/controllers/Listdriver.php on line 38
+[16-Dec-2016 06:30:29 UTC] PHP Fatal error:  Call to undefined method Driver_m::resetPassword() in /home/u5350550/public_html/admin/application/controllers/Listdriver.php on line 23
+[16-Dec-2016 06:30:35 UTC] PHP Fatal error:  Call to undefined method Driver_m::resetPassword() in /home/u5350550/public_html/admin/application/controllers/Listdriver.php on line 23
+[16-Dec-2016 06:30:41 UTC] PHP Fatal error:  Call to undefined method Driver_m::resetPassword() in /home/u5350550/public_html/admin/application/controllers/Listdriver.php on line 23
+[16-Dec-2016 06:30:49 UTC] PHP Fatal error:  Call to undefined method Driver_m::resetPassword() in /home/u5350550/public_html/admin/application/controllers/Listdriver.php on line 23
+[16-Dec-2016 06:30:50 UTC] PHP Fatal error:  Call to undefined method Driver_m::resetPassword() in /home/u5350550/public_html/admin/application/controllers/Listdriver.php on line 23
+[16-Dec-2016 06:30:50 UTC] PHP Fatal error:  Call to undefined method Driver_m::resetPassword() in /home/u5350550/public_html/admin/application/controllers/Listdriver.php on line 23
+[16-Dec-2016 06:30:51 UTC] PHP Fatal error:  Call to undefined method Driver_m::resetPassword() in /home/u5350550/public_html/admin/application/controllers/Listdriver.php on line 23
+[16-Dec-2016 06:30:52 UTC] PHP Fatal error:  Call to undefined method Driver_m::resetPassword() in /home/u5350550/public_html/admin/application/controllers/Listdriver.php on line 23
+[16-Dec-2016 06:30:52 UTC] PHP Fatal error:  Call to undefined method Driver_m::resetPassword() in /home/u5350550/public_html/admin/application/controllers/Listdriver.php on line 23
+[16-Dec-2016 06:30:53 UTC] PHP Fatal error:  Call to undefined method Driver_m::resetPassword() in /home/u5350550/public_html/admin/application/controllers/Listdriver.php on line 23
+[16-Dec-2016 06:31:25 UTC] PHP Fatal error:  Call to undefined method Driver_m::resetPassword() in /home/u5350550/public_html/admin/application/controllers/Listdriver.php on line 23
+[16-Dec-2016 06:31:31 UTC] PHP Fatal error:  Call to undefined method Driver_m::resetPassword() in /home/u5350550/public_html/admin/application/controllers/Listdriver.php on line 23
+[16-Dec-2016 06:31:32 UTC] PHP Fatal error:  Call to undefined method Driver_m::resetPassword() in /home/u5350550/public_html/admin/application/controllers/Listdriver.php on line 23
+[16-Dec-2016 06:32:29 UTC] PHP Fatal error:  Call to undefined method Driver_m::resetPassword() in /home/u5350550/public_html/admin/application/controllers/Listdriver.php on line 23
+[16-Dec-2016 06:32:56 UTC] PHP Fatal error:  Call to undefined method Driver_m::resetPassword() in /home/u5350550/public_html/admin/application/controllers/Listdriver.php on line 23
+[16-Dec-2016 06:33:00 UTC] PHP Fatal error:  Call to undefined method Driver_m::resetPassword() in /home/u5350550/public_html/admin/application/controllers/Listdriver.php on line 23
+[16-Dec-2016 06:33:02 UTC] PHP Fatal error:  Call to undefined method Driver_m::resetPassword() in /home/u5350550/public_html/admin/application/controllers/Listdriver.php on line 23
+[16-Dec-2016 06:34:45 UTC] PHP Fatal error:  Call to undefined method Driver_m::resetPassword() in /home/u5350550/public_html/admin/application/controllers/Listdriver.php on line 23
+[16-Dec-2016 06:34:48 UTC] PHP Fatal error:  Call to undefined method Driver_m::resetPassword() in /home/u5350550/public_html/admin/application/controllers/Listdriver.php on line 23
+[16-Dec-2016 06:34:49 UTC] PHP Fatal error:  Call to undefined method Driver_m::resetPassword() in /home/u5350550/public_html/admin/application/controllers/Listdriver.php on line 23
+[16-Dec-2016 06:34:50 UTC] PHP Fatal error:  Call to undefined method Driver_m::resetPassword() in /home/u5350550/public_html/admin/application/controllers/Listdriver.php on line 23
+[16-Dec-2016 06:34:51 UTC] PHP Fatal error:  Call to undefined method Driver_m::resetPassword() in /home/u5350550/public_html/admin/application/controllers/Listdriver.php on line 23
+[16-Dec-2016 06:34:51 UTC] PHP Fatal error:  Call to undefined method Driver_m::resetPassword() in /home/u5350550/public_html/admin/application/controllers/Listdriver.php on line 23
+[16-Dec-2016 06:34:52 UTC] PHP Fatal error:  Call to undefined method Driver_m::resetPassword() in /home/u5350550/public_html/admin/application/controllers/Listdriver.php on line 23
+[16-Dec-2016 06:34:52 UTC] PHP Fatal error:  Call to undefined method Driver_m::resetPassword() in /home/u5350550/public_html/admin/application/controllers/Listdriver.php on line 23
+[16-Dec-2016 06:34:53 UTC] PHP Fatal error:  Call to undefined method Driver_m::resetPassword() in /home/u5350550/public_html/admin/application/controllers/Listdriver.php on line 23
+[16-Dec-2016 06:35:36 UTC] PHP Fatal error:  Call to undefined method Driver_m::resetPassword() in /home/u5350550/public_html/admin/application/controllers/Listdriver.php on line 23
+[16-Dec-2016 06:35:39 UTC] PHP Fatal error:  Call to undefined method Driver_m::resetPassword() in /home/u5350550/public_html/admin/application/controllers/Listdriver.php on line 23
+[16-Dec-2016 06:35:40 UTC] PHP Fatal error:  Call to undefined method Driver_m::resetPassword() in /home/u5350550/public_html/admin/application/controllers/Listdriver.php on line 23
+[16-Dec-2016 06:35:41 UTC] PHP Fatal error:  Call to undefined method Driver_m::resetPassword() in /home/u5350550/public_html/admin/application/controllers/Listdriver.php on line 23
+[16-Dec-2016 06:35:42 UTC] PHP Fatal error:  Call to undefined method Driver_m::resetPassword() in /home/u5350550/public_html/admin/application/controllers/Listdriver.php on line 23
+[16-Dec-2016 07:22:41 UTC] PHP Fatal error:  Call to undefined method Driver_m::editKendaraan() in /home/u5350550/public_html/admin/application/controllers/Listdriver.php on line 99
+[16-Dec-2016 07:23:33 UTC] PHP Fatal error:  Call to undefined method Driver_m::resetPassword() in /home/u5350550/public_html/admin/application/controllers/Listdriver.php on line 23
+[16-Dec-2016 07:24:02 UTC] PHP Fatal error:  Call to undefined method Driver_m::resetPassword() in /home/u5350550/public_html/admin/application/controllers/Listdriver.php on line 23
+[16-Dec-2016 07:25:09 UTC] PHP Fatal error:  Call to undefined method Driver_m::editKendaraan() in /home/u5350550/public_html/admin/application/controllers/Listdriver.php on line 99
+[16-Dec-2016 07:25:19 UTC] PHP Fatal error:  Call to undefined method Driver_m::editKendaraan() in /home/u5350550/public_html/admin/application/controllers/Listdriver.php on line 99
+[16-Dec-2016 07:27:33 UTC] PHP Fatal error:  Call to undefined method Driver_m::editKendaraan() in /home/u5350550/public_html/admin/application/controllers/Listdriver.php on line 99
+[16-Dec-2016 08:04:55 UTC] PHP Fatal error:  Call to undefined method Driver_m::editKendaraan() in /home/u5350550/public_html/admin/application/controllers/Listdriver.php on line 99
+[16-Dec-2016 08:04:59 UTC] PHP Fatal error:  Call to undefined method Driver_m::editKendaraan() in /home/u5350550/public_html/admin/application/controllers/Listdriver.php on line 99
+[16-Dec-2016 08:05:02 UTC] PHP Fatal error:  Call to undefined method Driver_m::editKendaraan() in /home/u5350550/public_html/admin/application/controllers/Listdriver.php on line 99
+[16-Dec-2016 08:05:53 UTC] PHP Fatal error:  Call to undefined method Driver_m::editKendaraan() in /home/u5350550/public_html/admin/application/controllers/Listdriver.php on line 99
+[16-Dec-2016 08:15:54 UTC] PHP Fatal error:  Call to undefined method Driver_m::getTotalTransaksi() in /home/u5350550/public_html/admin/application/controllers/Dashboard.php on line 45
+[16-Dec-2016 08:16:07 UTC] PHP Fatal error:  Call to undefined method Driver_m::getSaldoDriver() in /home/u5350550/public_html/admin/application/controllers/Listdriver.php on line 38
+[16-Dec-2016 08:16:09 UTC] PHP Fatal error:  Call to undefined method Driver_m::getTotalTransaksi() in /home/u5350550/public_html/admin/application/controllers/Dashboard.php on line 45
+[16-Dec-2016 08:16:12 UTC] PHP Fatal error:  Call to undefined method Driver_m::getTotalTransaksi() in /home/u5350550/public_html/admin/application/controllers/Dashboard.php on line 70
+[16-Dec-2016 08:16:13 UTC] PHP Fatal error:  Call to undefined method Driver_m::getTotalTransaksi() in /home/u5350550/public_html/admin/application/controllers/Dashboard.php on line 45
+[16-Dec-2016 08:16:14 UTC] PHP Fatal error:  Call to undefined method Driver_m::getTotalTransaksi() in /home/u5350550/public_html/admin/application/controllers/Dashboard.php on line 45
+[16-Dec-2016 08:17:24 UTC] PHP Fatal error:  Call to undefined method Driver_m::resetPassword() in /home/u5350550/public_html/admin/application/controllers/Listdriver.php on line 23
+[16-Dec-2016 08:18:38 UTC] PHP Fatal error:  Call to undefined method Driver_m::resetPassword() in /home/u5350550/public_html/admin/application/controllers/Listdriver.php on line 23
+[16-Dec-2016 08:18:51 UTC] PHP Fatal error:  Call to undefined method Driver_m::resetPassword() in /home/u5350550/public_html/admin/application/controllers/Listdriver.php on line 23
+[03-Nov-2017 00:14:08 UTC] PHP Warning:  ini_set() has been disabled for security reasons in /home/greative/public_html/GOEKS/admin/index.php on line 70
+[03-Nov-2017 00:14:27 UTC] PHP Warning:  ini_set() has been disabled for security reasons in /home/greative/public_html/GOEKS/admin/index.php on line 70
+[03-Nov-2017 00:14:27 UTC] PHP Warning:  ini_set() has been disabled for security reasons in /home/greative/public_html/GOEKS/admin/index.php on line 70
+[03-Nov-2017 00:14:51 UTC] PHP Warning:  ini_set() has been disabled for security reasons in /home/greative/public_html/GOEKS/admin/index.php on line 70
+[03-Nov-2017 00:18:15 UTC] PHP Warning:  ini_set() has been disabled for security reasons in /home/greative/public_html/GOEKS/admin/index.php on line 70
+[03-Nov-2017 00:21:46 UTC] PHP Warning:  ini_set() has been disabled for security reasons in /home/greative/public_html/GOEKS/admin/index.php on line 70
+[03-Nov-2017 00:21:56 UTC] PHP Warning:  ini_set() has been disabled for security reasons in /home/greative/public_html/GOEKS/admin/index.php on line 70
+[03-Nov-2017 00:21:59 UTC] PHP Warning:  ini_set() has been disabled for security reasons in /home/greative/public_html/GOEKS/admin/index.php on line 70
+[03-Nov-2017 04:34:26 UTC] PHP Warning:  ini_set() has been disabled for security reasons in /home/greative/public_html/GOEKS/admin/index.php on line 70
+[03-Nov-2017 04:34:37 UTC] PHP Warning:  ini_set() has been disabled for security reasons in /home/greative/public_html/GOEKS/admin/index.php on line 70
+[03-Nov-2017 04:34:37 UTC] PHP Warning:  ini_set() has been disabled for security reasons in /home/greative/public_html/GOEKS/admin/index.php on line 70
+[03-Nov-2017 04:34:53 UTC] PHP Warning:  ini_set() has been disabled for security reasons in /home/greative/public_html/GOEKS/admin/index.php on line 70
+[03-Nov-2017 04:34:57 UTC] PHP Warning:  ini_set() has been disabled for security reasons in /home/greative/public_html/GOEKS/admin/index.php on line 70
+[03-Nov-2017 05:28:16 UTC] PHP Warning:  ini_set() has been disabled for security reasons in /home/greative/public_html/GOEKS/admin/index.php on line 70
+[03-Nov-2017 05:28:24 UTC] PHP Warning:  ini_set() has been disabled for security reasons in /home/greative/public_html/GOEKS/admin/index.php on line 70
+[03-Nov-2017 05:29:15 UTC] PHP Warning:  ini_set() has been disabled for security reasons in /home/greative/public_html/GOEKS/admin/index.php on line 70
+[03-Nov-2017 05:29:33 UTC] PHP Warning:  ini_set() has been disabled for security reasons in /home/greative/public_html/GOEKS/admin/index.php on line 70
+[03-Nov-2017 19:41:01 UTC] PHP Warning:  ini_set() has been disabled for security reasons in /home/greative/public_html/GOEKS/admin/index.php on line 70
+[03-Nov-2017 19:41:27 UTC] PHP Warning:  ini_set() has been disabled for security reasons in /home/greative/public_html/GOEKS/admin/index.php on line 70
+[03-Nov-2017 19:41:28 UTC] PHP Warning:  ini_set() has been disabled for security reasons in /home/greative/public_html/GOEKS/admin/index.php on line 70
+[03-Nov-2017 19:41:38 UTC] PHP Warning:  ini_set() has been disabled for security reasons in /home/greative/public_html/GOEKS/admin/index.php on line 70
+[04-Nov-2017 02:34:27 UTC] PHP Warning:  ini_set() has been disabled for security reasons in /home/greative/public_html/GOEKS/admin/index.php on line 70
+[04-Nov-2017 10:23:46 UTC] PHP Warning:  ini_set() has been disabled for security reasons in /home/greative/public_html/GOEKS/admin/index.php on line 70
+[04-Nov-2017 10:27:47 UTC] PHP Warning:  ini_set() has been disabled for security reasons in /home/greative/public_html/GOEKS/admin/index.php on line 70
+[04-Nov-2017 10:27:47 UTC] PHP Warning:  ini_set() has been disabled for security reasons in /home/greative/public_html/GOEKS/admin/index.php on line 70
+[04-Nov-2017 10:27:55 UTC] PHP Warning:  ini_set() has been disabled for security reasons in /home/greative/public_html/GOEKS/admin/index.php on line 70
+[04-Nov-2017 10:29:23 UTC] PHP Warning:  ini_set() has been disabled for security reasons in /home/greative/public_html/GOEKS/admin/index.php on line 70
+[04-Nov-2017 10:30:17 UTC] PHP Warning:  ini_set() has been disabled for security reasons in /home/greative/public_html/GOEKS/admin/index.php on line 70
+[04-Nov-2017 10:30:56 UTC] PHP Warning:  ini_set() has been disabled for security reasons in /home/greative/public_html/GOEKS/admin/index.php on line 70
+[04-Nov-2017 10:31:36 UTC] PHP Warning:  ini_set() has been disabled for security reasons in /home/greative/public_html/GOEKS/admin/index.php on line 70
+[04-Nov-2017 10:33:05 UTC] PHP Warning:  ini_set() has been disabled for security reasons in /home/greative/public_html/GOEKS/admin/index.php on line 70
+[04-Nov-2017 10:33:56 UTC] PHP Warning:  ini_set() has been disabled for security reasons in /home/greative/public_html/GOEKS/admin/index.php on line 70
+[04-Nov-2017 10:33:59 UTC] PHP Warning:  ini_set() has been disabled for security reasons in /home/greative/public_html/GOEKS/admin/index.php on line 70
+[04-Nov-2017 10:34:26 UTC] PHP Warning:  ini_set() has been disabled for security reasons in /home/greative/public_html/GOEKS/admin/index.php on line 70
+[04-Nov-2017 10:36:05 UTC] PHP Warning:  ini_set() has been disabled for security reasons in /home/greative/public_html/GOEKS/admin/index.php on line 70
+[04-Nov-2017 10:36:14 UTC] PHP Warning:  ini_set() has been disabled for security reasons in /home/greative/public_html/GOEKS/admin/index.php on line 70
+[04-Nov-2017 10:36:45 UTC] PHP Warning:  ini_set() has been disabled for security reasons in /home/greative/public_html/GOEKS/admin/index.php on line 70
+[04-Nov-2017 10:36:47 UTC] PHP Warning:  ini_set() has been disabled for security reasons in /home/greative/public_html/GOEKS/admin/index.php on line 70
+[04-Nov-2017 10:37:48 UTC] PHP Warning:  ini_set() has been disabled for security reasons in /home/greative/public_html/GOEKS/admin/index.php on line 70
+[04-Nov-2017 10:38:03 UTC] PHP Warning:  ini_set() has been disabled for security reasons in /home/greative/public_html/GOEKS/admin/index.php on line 70
+[04-Nov-2017 10:38:08 UTC] PHP Warning:  ini_set() has been disabled for security reasons in /home/greative/public_html/GOEKS/admin/index.php on line 70
+[04-Nov-2017 10:39:08 UTC] PHP Warning:  ini_set() has been disabled for security reasons in /home/greative/public_html/GOEKS/admin/index.php on line 70
+[04-Nov-2017 10:39:11 UTC] PHP Warning:  ini_set() has been disabled for security reasons in /home/greative/public_html/GOEKS/admin/index.php on line 70
+[04-Nov-2017 10:45:46 UTC] PHP Warning:  ini_set() has been disabled for security reasons in /home/greative/public_html/GOEKS/admin/index.php on line 70
+[04-Nov-2017 10:45:46 UTC] PHP Warning:  ini_set() has been disabled for security reasons in /home/greative/public_html/GOEKS/admin/index.php on line 70
+[04-Nov-2017 10:45:49 UTC] PHP Warning:  ini_set() has been disabled for security reasons in /home/greative/public_html/GOEKS/admin/index.php on line 70
+[04-Nov-2017 10:45:55 UTC] PHP Warning:  ini_set() has been disabled for security reasons in /home/greative/public_html/GOEKS/admin/index.php on line 70
+[04-Nov-2017 10:47:16 UTC] PHP Warning:  ini_set() has been disabled for security reasons in /home/greative/public_html/GOEKS/admin/index.php on line 70
+[04-Nov-2017 10:47:35 UTC] PHP Warning:  ini_set() has been disabled for security reasons in /home/greative/public_html/GOEKS/admin/index.php on line 70
+[04-Nov-2017 10:47:42 UTC] PHP Warning:  ini_set() has been disabled for security reasons in /home/greative/public_html/GOEKS/admin/index.php on line 70
+[04-Nov-2017 10:50:04 UTC] PHP Warning:  ini_set() has been disabled for security reasons in /home/greative/public_html/GOEKS/admin/index.php on line 70
+[09-Nov-2017 04:21:13 UTC] PHP Fatal error:  Call to a member function result_array() on boolean in /home/greative/public_html/GOEKS/admin/application/models/ProporsiBiaya_m.php on line 14

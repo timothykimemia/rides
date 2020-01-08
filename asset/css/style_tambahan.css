@@ -1,0 +1,2079 @@
+body.toggled {
+
+  overflow: hidden;
+}
+
+.main-logo a{
+   background: url('../images/mangjek-logo.png') no-repeat center center;
+    background-size: 122px 36px;
+
+    height: 65px;
+    display: block; 
+    text-indent: -9999px;
+    margin: 0 auto;
+    padding: 0px;
+    margin-top: -20px;
+}
+
+/*.main-logo{
+    margin-left: -40px;
+}*/
+
+
+.top-bar-right {
+    float: right;
+    margin-right: 15px;
+    margin-top: 15px;
+}
+
+.top-bar-right .navbar-right {}
+
+.top-bar-right li {
+    line-height: 65px;
+    display: inline-block;
+    vertical-align: middle;
+    margin-left: 10px;
+}
+
+.top-bar-right li .top-download {
+    padding: 0 !important;
+}
+
+.top-download,
+.footer-download {
+    width: 118px;
+    height: 35px;
+    line-height: 42px;
+    display: inline-block;
+    float: left;
+    margin-left: 0 0 0 5px;
+    vertical-align: middle;
+}
+
+.top-download.android {
+    width: 116px;
+}
+
+.top-download img,
+.footer-download img {
+    width: 100%;
+}
+
+.sidebar-logos {
+    padding: 0 15px;
+    float: left;
+    width: 100%;
+    display: block;
+    position: relative;
+}
+
+.sidebar-logos li {
+    margin: 9px;
+    float: left;
+    text-indent: 0px;
+    line-height: normal;
+    list-style: none;
+}
+
+.sidebar-logos li a {
+    float: left;
+    padding: 0;
+    margin: 0;
+    border: 0;
+}
+
+.sidebar-logos li a:hover {
+    background: none;
+}
+
+.sidebar-logos li:nth-child(2) a {
+    margin: 0;
+}
+
+.sidebar-logos li a img {
+    width: 25px;
+    margin: 0;
+}
+
+.sidebar-logos li:last-child {
+    position: relative;
+    bottom: 0px;
+}
+
+.powered li a {
+    padding: 0;
+    text-indent: 0px;
+    border: 0;
+}
+
+.sidebar-logos svg{
+  width: 25px; 
+  height: 25px;
+
+  }
+
+.dark .footer-services path{fill: rgba(255, 255, 255, 0.6);}
+.dark .footer-services circle{stroke: rgba(255, 255, 255, 0.6);}
+.light .footer-services path{fill: rgba(0, 0, 0, 0.3);}
+.light .footer-services circle{stroke: rgba(0, 0, 0, 0.3);}
+.footer-services a:hover svg path{fill: #FFF;}
+.sidebar-logos a:hover svg path{fill: #000;}
+a:hover svg#gobox circle, a:hover svg#gokilat circle{fill: #9D662E; stroke: #9D662E;}
+a:hover svg#gobusway circle{fill: #EE7922; stroke: #EE7922;}
+a:hover svg#gocar circle{fill: #0D619E; stroke: #0D619E;}
+a:hover svg#goclean circle{fill: #218FC2; stroke: #218FC2;}
+a:hover svg#gofood circle{fill: #D8232A; stroke: #D8232A;}
+a:hover svg#goglam circle{fill: #E87699; stroke: #E87699;}
+a:hover svg#gomart circle{fill: #4B9CD2; stroke: #4B9CD2;}
+a:hover svg#gomassage circle{fill: #17B4AD; stroke: #17B4AD;}
+a:hover svg#gopay circle{fill: #5CA5DA; stroke: #5CA5DA;}
+a:hover svg#goride circle{fill: #F9AE3C; stroke: #F9AE3C;}
+a:hover svg#gosend circle{fill: #8CC53F; stroke: #8CC53F;}
+a:hover svg#gotix circle{fill: #EB6B23; stroke: #EB6B23;}
+a:hover svg#goresto circle{fill: #EB6B23; stroke: #EB6B23;}
+
+
+
+
+
+
+
+
+.content-section p , #layanan_isi p,#layanan_isi_detail3{
+
+color: #575756;
+}
+#layanan_isi_detail1 p{
+  color: #FFFFFF;
+}
+
+#layanan_isi-join{
+
+ 
+  background: #F1F1F1;
+}
+
+
+.layanan_isi-join-judul {
+
+ 
+  width: 500px;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 30px;
+  
+}
+.layanan_isi-join-judul p{
+
+  font-size: 45px;
+  text-align: center;
+  padding-top 15px;
+  margin-top: 0;
+  color: #000;
+  font-weight: 500;
+
+  
+}
+
+.layanan_isi-join-judul2 p{
+
+  font-size: 30px;
+  text-align: center;
+  padding-top 15px;
+  margin-top: 0;
+  color: #000;
+  font-weight: 300;
+  margin-top: 30px;
+
+  
+}
+
+.line1 {
+
+  background: #000;
+  height: 1px;
+}
+
+.datadiri, .datakendaraan {
+
+  background: #fff;
+  display: block;
+  overflow: auto;
+  padding: 20px;
+  padding-bottom: 20px;
+  margin-top: 30px;
+  color: #000;
+  padding-bottom: 10px;
+  border-radius: 5px;
+}
+
+
+
+/*#layanan_isi_download {
+
+  margin-top: 30px;
+  margin-bottom: 30px;
+}*/
+
+#layanan_isi_download .layanan_isi-download1 {
+
+  font-size: 45px;
+  text-align: center;
+  color: #000;
+  font-weight: 300px;
+  width: 400px;
+  margin-top: 100px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.layanan_isi-download1{
+  margin-top: 200px;
+}
+
+.layanan_isi-download1 p{
+ font-size:40px;
+ font-weight:bold;
+}
+
+
+#layanan_isi_download .download2 .foto1{
+     float: right;
+}
+
+#layanan_isi_download .download2 .foto2{
+      float: left;
+}
+
+/*************************
+*******faq CSS**********
+**************************/
+
+#faq {
+  position: relative;
+  width: 100%;
+  display: flex;
+   padding: 110px 0 50px;
+   background: #F1F1F1;
+}
+
+ 
+#faq h2 {
+  margin-bottom: 23px;
+  font-size: 50px;
+  color: #000;
+  font-weight: 400;
+  letter-spacing: 5px;
+  text-align: center;
+}
+
+
+#faq .btn-primary {
+  background-color: #137c61;
+  color: #fff;
+  text-transform: capitalize;
+  border: none;
+  margin-top: 28px;
+}
+
+#faq .btn-primary:hover {
+  background-color: #126d55
+}
+
+.faq-judul {
+
+  background: #fff;
+      display: block;
+    overflow: auto;
+  padding: 15px;
+  border-radius: 10px;
+}
+
+.faq-detail {
+ 
+  width: 100%;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 20px;
+  margin-bottom: 20px;
+  
+}
+
+.faq-border {
+ 
+  
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 30px;
+  background: #fff;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  border-radius: 5px;
+}
+
+/*************************
+*******accordion css******
+**************************/
+/* Style the buttons that are used to open and close the accordion panel */
+button.accordion {
+    background-color: #eee;
+    color: #444;
+    cursor: pointer;
+    padding: 18px;
+    width: 100%;
+    text-align: left;
+    border: solid 1px;
+    border-color: #47869E;
+    outline: none;
+    transition: 0.4s;
+    margin-bottom: 20px;
+}
+
+/* Add a background color to the button if it is clicked on (add the .active class with JS), and when you move the mouse over it (hover) */
+button.accordion.active, button.accordion:hover {
+    background-color: #47869E;
+    color:#ECF3F4;
+}
+
+/* Style the accordion panel. Note: hidden by default */
+
+
+/* The "show" class is added to the accordion panel when the user clicks on one of the buttons. This will show the panel content */
+div.panel.show {
+    display: block;
+    background: ##FFCC00;
+}
+
+button.accordion:after {
+    content: '\02795'; /* Unicode character for "plus" sign (+) */
+    font-size: 13px;
+    /*color: #777;*/
+    float: right;
+    margin-left: 5px;
+}
+
+
+button.accordion.active:after {
+    content: "\2796"; /* Unicode character for "minus" sign (-) */
+    color:#ECF3F4;;
+}
+
+
+
+
+
+div.panel {
+   margin-top: -20px;
+   padding: 0 18px;
+   background-color: #FFCC00;
+   max-height: 0;
+   overflow: hidden;
+   transition: 0.6s ease-in-out;
+   opacity: 0;
+}
+
+div.panel.show {
+    opacity: 1;
+    max-height: 500px; /* Whatever you like, as long as its more than the height of the content (on all screen sizes) */
+}
+
+/*************************
+*******form CSS******
+**************************/
+
+input[type="text"] ,input[type="date"],textarea{
+  width:100%;
+  padding: 7px 14px;
+}
+
+button[type="submit"]{
+  
+
+}
+
+button[type="submit"]:hover{
+  background: #0D6485;
+  color:black;
+  border-color: white;
+}
+/*************************
+*******layanan_isi CSS******
+**************************/
+
+
+
+#layanan_isi_detail1, #layanan_isi_detail3 {
+   width: 100%;
+  
+  background-position: center top;
+  background-repeat: no-repeat;
+  background-size: cover;
+  /*padding-top: 80px;*/
+ /* padding: 70px 70px 110px;*/
+/*  padding: 80px 0 100px;*/
+
+  
+}
+
+#layanan_isi_detail2 {
+   width: 100%;
+  
+  background-position: center top;
+  background-repeat: no-repeat;
+  background-size: cover;
+/*  padding: 80px 0 100px;*/
+
+  
+}
+
+.watch {
+  position: absolute;
+  left: -90px;
+  margin-top: -95px
+  
+ 
+}
+
+#layanan_isi h2, #layanan_isi_detail2 h2, #layanan_isi_detail3 h2{
+  font-size: 50px;
+  text-transform: uppercase;
+  text-align: center;
+  padding-top: 15px;
+  margin-top: 50px;
+  color: #000;
+  font-weight: 400;
+  letter-spacing: 5px;
+}
+
+#layanan_isi_detail1 h2 {
+    text-align: center;
+    line-height: 30px;
+    font-size: 35px;
+    color: #000;
+    font-weight: bold;
+    letter-spacing: 2px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+
+/* HOW IT WORK */
+
+/*Pilihan Kendaraan*/
+#how-it-work {
+padding: 70px 0px;
+z-index: 1;
+position: relative;
+
+/* Permalink - use to edit and share this gradient: http://colorzilla.com/gradient-editor/#FFCC00+50,ffffff+50 */
+background: #FFCC00; /* Old browsers */
+background: -moz-linear-gradient(top,  #FFCC00 50%, #ffffff 50%); /* FF3.6+ */
+background: -webkit-gradient(linear, left top, left bottom, color-stop(50%,#FFCC00), color-stop(50%,#ffffff)); /* Chrome,Safari4+ */
+background: -webkit-linear-gradient(top,  #FFCC00 50%,#ffffff 50%); /* Chrome10+,Safari5.1+ */
+background: -o-linear-gradient(top,  #FFCC00 50%,#ffffff 50%); /* Opera 11.10+ */
+background: -ms-linear-gradient(top,  #FFCC00 50%,#ffffff 50%); /* IE10+ */
+background: linear-gradient(to bottom,  #FFCC00 50%,#ffffff 50%); /* W3C */
+filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#FFCC00', endColorstr='#ffffff',GradientType=0 ); /* IE6-9 */
+
+}
+#how-it-work h2 {
+    font-size: 35px;
+    margin-bottom: 30px;
+    text-align: center;
+    color: #000;
+    font-weight: bold;
+    letter-spacing: 2px;
+    padding-top: 20px;
+    /* text-align: left; */
+    margin: auto;
+    margin-top: -30px;
+}
+
+
+}
+#how-it-work .pilihan-kendaraan .truknya img {
+    width: 50%;
+    height: 50%;
+    margin: 0px 15%;
+}
+#how-it-work .truck-slide {
+    list-style: none;
+    padding: 0px;
+}
+#how-it-work .truck-slide li {}
+#how-it-work .truck-slide li img {
+    max-width: 100%;
+    width: 100%;
+}
+#how-it-work .nav {
+background-color: transparent;    
+}
+#how-it-work .nav li {
+    width: 19%;
+    margin-right: 1%;
+}
+#how-it-work .nav li a {
+background-color: #252525 !important;
+    border: 0!important;
+    color: #fff!important;
+    font-weight: 500;    
+    font-size: 13px;
+    text-transform: uppercase;
+    text-align: center;
+    -webkit-transition: all 0.5s ease;
+    -moz-transition: all 0.5s ease;
+    -o-transition: all 0.5s ease;
+    transition: all 0.5s ease;  
+}
+#how-it-work .nav li a:hover,
+#how-it-work .nav li.active a {
+background-color: #FFCC00 !important;
+    border: 0!important;
+    color: #252525!important;
+    font-weight: 500;    
+}
+#how-it-work .tab-content {
+background-color: #FFCC00;
+    padding: 10px;    
+}
+#how-it-work .tab-content .box-desc {}
+#how-it-work .tab-content .box-desc .row {
+    margin: 0px;
+}
+#how-it-work .tab-content .box-desc .row [class*="col-"] {
+    padding: 0px;
+}
+#how-it-work .tab-content .box-desc .info-kendaraan {
+    width: 100%;
+    display: block;
+    padding:0px  5px;    
+}
+#how-it-work  .pilihan-kendaraan .tab-content .box-desc .info-kendaraan h5 {
+    font-size: 13px;
+    color: #252525;
+}
+#how-it-work  .pilihan-kendaraan .tab-content .box-desc .info-kendaraan h3 {
+    font-size: 16px;
+    color: #252525;
+    font-weight: bold;    
+}
+}
+#how-it-work .tab-content .box-desc .point {
+font-size: 12px;
+    padding: 0px 10px;
+}
+#how-it-work .tab-content .box-desc .point:after {
+    clear: both;
+}
+#how-it-work .tab-content .box-desc .point span {
+    float: left;
+    width: 5%;    
+}
+#how-it-work .tab-content .box-desc .point .content {
+    float: left;
+    width: 95%;    
+}
+
+#how-to-visual {
+    position: absolute;
+    overflow: hidden;
+    z-index: 5;
+}
+
+#how-to-visual > img {
+    position: absolute;
+    display: none;
+}
+
+#how-it-work .truknya img{
+  width:25%; height:25%; margin: 20px 35%;
+}
+
+/******************** join m-ride *************/
+
+/*EMPAT KOTA*/
+#joinus {
+    padding: 100px 0px 80px;
+    background-image: url('../images/join_mride.jpg');
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    z-index: 1;
+    position: relative;
+}
+#joinus img {
+    width: 100%;
+}
+#joinus h2 {
+    text-align: center;
+    font-size: 100px;
+    letter-spacing: 2px;
+    font-weight: bold;
+    color: #FFEC00;
+    line-height: 50px;
+    margin-bottom: 15px;
+    margin-top: 70px;
+}
+#joinus p {
+    text-align: center;
+    color:#fff;
+    font-size: 18px;
+    margin-bottom: 0px;
+}
+
+#joinus .join p{
+
+margin-top: 100px;
+
+margin-bottom:20px;
+
+font-size: 17px;
+}
+
+#joinus .section-bottom-align {
+
+  text-align: center;
+}
+
+#joinus .section-bottom-align .btn-primary{
+
+  background: #FFCC00;
+  border-color: #FFC000;
+}
+
+#joinus .section-bottom-align a:hover {
+
+  background: #FC0000;
+  border-color: #FC0000;
+}
+
+
+/*************************
+*******hubungi_kami CSS******
+**************************/
+
+#hubungi_kami {
+
+width: 100%;
+
+/*top:0px;
+  left:0px;*/
+}
+
+#hubungi_kami h1, #hubungikami_detail h1{
+  color:#000000;
+}
+
+#hubungi_kami h2, #hubungikami_detail h2 {
+  font-size: 50px;
+  text-transform: uppercase;
+  text-align: center;
+  padding-top: 15px;
+  margin-top: 50px;
+  color: #000;
+  font-weight: 400;
+  letter-spacing: 5px;
+}
+#hubungikami_detail{
+   width: 100%;
+  
+  background-position: center top;
+  background-repeat: no-repeat;
+  background-size: cover;
+
+/*  padding: 80px 0 100px;*/
+
+  
+}
+
+#hubungikami_detail .row{
+  margin-right: -110px;
+  margin-left: -110px;
+}
+
+.hubungikami_kantor{
+  height: 533px;
+  
+
+}
+
+#layanan{
+
+  color: #000;
+  background-image: url("../images/dots-bg.png");
+  background-position: 50% 0;
+  /*background-size: contain;*/
+  opacity: 50%;
+  position: relative;
+  background-repeat: repeat;
+
+}
+
+
+#layanan img {
+
+height: auto;
+
+width: 150px;
+
+display: block;
+
+padding-top: 20px;
+}
+
+#layanan h2 {
+  font-size: 50px;
+  text-transform: uppercase;
+  text-align: center;
+  padding-top: 20px;
+  color: #000;
+  font-weight: 400;
+  letter-spacing: 5px;
+}
+
+#layanan h4 {
+
+font-size: 20px;
+  text-transform: uppercase;
+  text-align: center;
+  color: #000;
+  font-weight: 600;
+  margin-top: -15px;
+}
+
+.line {
+    content: "";
+    border-bottom: 6px solid #FFCC00;
+    width: 45px;
+    display: inline-block;
+    margin: 25px 0 30px;
+}
+
+#layanan h4:hover{
+
+  color: #FFCC00;
+}
+
+#about p {
+
+
+
+  color: #9B9B9B;
+  text-align: center;
+
+}
+
+#about h1 {
+
+  color: #9B9B9B;
+  font-size: 50px;
+  margin-left: -40px;
+  margin-top: 30px;
+  position: relative;
+
+}
+
+
+#about img {
+
+  margin-top: 30px;
+  margin-left: 30px;
+  margin-bottom: 30px;
+}
+
+.raw-about p {
+  text-align: left;
+}
+
+.isi-whymangjek {
+
+  text-align: left;
+  margin-top: 80px;
+  text-align: left;
+}
+
+.isi-whymangjek p {
+
+  margin-top: -50px;
+  text-align: left;
+}
+
+#event-carousel img {
+
+  width: 263px;
+  height: 231px;
+}
+
+#Blog {
+
+  font-family: 'Dosis', 'sans-serif';
+  background-image: url(../images/dots-bg.png);
+  background-position: 50% 0;
+  /*background-size: contain;*/
+  opacity: 50%;
+  position: relative;
+  background-repeat: repeat;
+  padding-top:80px; padding-bottom:80px;
+}
+
+
+.single-about-detail{
+  position: relative;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+
+.single-about-detail .about-img{
+  width:250px; 
+  height:250px;
+}
+
+.about-img img {
+
+  width: 360px;
+  height: 250px;
+}
+
+.single-about-detail .about-details{
+  width:250px; 
+  height:250px;
+  margin-bottom: 20px;
+}
+
+.tanggal {
+
+  margin-top: -15px;
+  margin-bottom: 15px;
+  margin-left: 10px;
+}
+
+
+.pentagon-text h1{
+  font-family: 'Dosis', 'sans-serif';
+  font-size: 60px;
+  color: #383838;
+  margin-top: 0;
+  transition: all .7s ease 0s;
+  -webkit-transition: all .7s ease 0s;
+  -moz-transition: all .7s ease 0s;
+  -o-transition: all .7s ease 0s;
+  -ms-transition: all .7s ease 0s;
+  position: absolute;
+    left: 15%;
+    width: 50px;
+    top: -6%;
+}
+
+.pentagon-text h4{
+
+  font-size: 25px;
+  color: #383838;
+  /*margin: 0 auto;*/
+  text-align: center;
+  transition: all .7s ease 0s;
+  -webkit-transition: all .7s ease 0s;
+  -moz-transition: all .7s ease 0s;
+  -o-transition: all .7s ease 0s;
+  -ms-transition: all .7s ease 0s;
+  position: absolute;
+    
+    width: 50px;
+    height: 52px;
+    margin: auto;
+    top: 50%; left: 0; bottom: 0; right: 0;
+}
+
+
+.pentagon-text {
+  width: 70px;
+  height: 52px;
+  background: #fff;
+  position: relative;
+   top: -30px;
+  left: 35%;
+}
+.pentagon-text:before {
+  content: "";
+  position: absolute;
+  top: -15px;
+  left: 0;
+  width: 0;
+  height: 0;
+  border-left: 34px solid transparent;
+  border-right: 35px solid transparent;
+  border-bottom: 15px solid #fff;
+}
+.pentagon-text:after {
+  content: "";
+  position: absolute;
+  bottom: -15px;
+  left: 0;
+  width: 0;
+  height: 0px;
+  border-left: 36px solid transparent;
+  border-right: 34px solid transparent;
+  border-top: 15px solid #fff;
+}
+.about-details{
+  background: #2a2a2a;
+  border-top: 2px solid #fff;
+  transition: all .7s ease 0s;
+  -webkit-transition: all .7s ease 0s;
+  -moz-transition: all .7s ease 0s;
+  -o-transition: all .7s ease 0s;
+  -ms-transition: all .7s ease 0s;
+}
+.about-details h3{
+  font-size: 20px;
+  color: #fff;
+  margin-top: 0;
+  padding: 0 25px;
+  font-family: 'Dosis', 'sans-serif';
+
+}
+.about-details p{
+  /*font-size: 13px;*/
+  color: #fff;
+  /*font-family: 'Open Sans', sans-serif;*/
+  padding: 0 25px;
+  /*padding-bottom: 10px;*/
+}
+
+.single-about-detail:hover .about-details{
+  background: #3a9dca;
+}
+.single-about-detail:hover .pentagon-text h4{
+  color: #3a9dca;
+}
+
+
+.single-about-detail {
+
+  margin-top: 50px;
+  margin-bottom: 50px;
+
+}
+.single-about-detail h2 {
+
+color: #000;
+
+font-size: 50px;
+
+text-transform: uppercase;
+
+padding-top: 60px;
+
+font-weight: 400;
+
+letter-spacing: 5px;
+}
+
+#Blog .kotak , #syaratKetentuan .kotak{
+
+  width: 280px;
+  height: 250px;
+  margin-left: -20px;
+  background-color: #167698;
+  padding-left: 20px;
+  padding-right: auto;
+  border-radius: 10px;
+  font-color: #fff;
+
+}
+
+
+/* Twitter*/
+
+#twitter h2{
+
+font-size: 50px;
+
+text-transform: uppercase;
+
+text-align: center;
+
+margin-top: -50px;
+
+color: #000;
+
+font-weight: 400;
+
+letter-spacing: 5px;
+}
+
+/*download*/
+
+#download{
+  width: 100%;
+  height: 500px;
+  padding: 80px 0 100px;
+}
+#download .download1 p {
+  font-size: 45px;
+  text-align: center;
+  padding-top 15px;
+  margin-top: 0;
+  color: #000;
+  font-weight: 500;
+  
+}
+
+#download .download2 .foto1{
+  float: right;
+}
+
+#download .download2 .foto2{
+  float: left;
+}
+
+#download  {
+
+  text-align: center;
+  color: #9B9B9B; 
+
+}
+
+#download .row {
+
+ 
+  margin-left: auto;
+  margin-right: auto;
+}
+
+/*footer*/
+
+
+#footer .social:hover {
+     /*-webkit-transform: scale(1.1);*/
+     -moz-transform: scale(1.1);
+     -o-transform: scale(1.1);
+ }
+ #footer .social {
+     -webkit-transform: scale(0.8);
+     /* Browser Variations: */
+     
+     -moz-transform: scale(0.8);
+     -o-transform: scale(0.8);
+     -webkit-transition-duration: 0.5s;
+     -moz-transition-duration: 0.5s;
+     -o-transition-duration: 0.5s;
+     color:#BAB59E;
+
+ }
+
+/*
+    Multicoloured Hover Variations
+*/
+ 
+ #social-fb:hover {
+     color: #f7ab24;
+     background: #FFFFFF;
+ }
+ #social-tw:hover {
+     color:#f7ab24;
+ }
+ #social-gp:hover {
+     color: #f7ab24;
+ }
+ #social-em:hover {
+     color: #f7ab24;
+ }
+
+ .social .fa{
+  display: inline;
+ }
+
+
+/*event */
+
+#event1{
+
+  margin-top: 80px;
+}
+
+#event1 .single-about-detail {
+
+  margin-top: 35px;
+  margin-bottom: 10px;
+}
+
+/*paginasi*/
+
+.paginasi {
+
+  text-align: center;
+
+  
+}
+
+
+/*--artikel--*/
+/*----------*/
+
+.artikel {
+
+  background: #FDFDFD;
+  margin-top: 45px;
+  padding: 20px;
+  border-radius: 10px;
+  margin-bottom: 50px;
+  color: #9B9B9B;
+  line-height: 30px;
+}
+
+.artikel h1 {
+
+  color: #000;
+  font-weight: 400px;
+  letter-spacing: 3px;
+  font-size: 40px;
+}
+
+.category-label {
+
+  background: #FFCC00;
+  color: #fff;
+  font-size: 12px;
+  padding: 5px 15px;
+  display: inline-block;
+  overflow: hidden;
+  margin-bottom: 15px;
+  border-radius: 5px;
+}
+
+.artikel-detail p {
+
+  margin-top: 20px;
+}
+
+/*syarat dan ketentuan*/
+
+#syaratKetentuan{
+
+  background: #F1F1F1;
+}
+
+.syaratKetentuan-detail {
+
+  background: #FDFDFD;
+  margin-top: 35px;
+  padding: 20px;
+  border-radius: 10px;
+  margin-bottom: 50px;
+  color: #9B9B9B;
+  line-height: 30px;
+}
+
+#syaratKetentuan h2 {
+
+  letter-spacing: 3px;
+}
+
+.syaratKetentuan-judul p {
+
+  font-size: 25px;
+  font-weight: 200px;
+  color: #000;
+  letter-spacing: 2px;
+}
+
+
+/**************BARU**********/
+
+
+.section{
+  background: transparent;
+ }
+.dot{
+  display: block;
+  background: url("../images/bg-dot.png") repeat #fff;
+  background-size: 10px 10px;
+}
+.dot.separator{
+  width: 100%;
+  height: 65px;
+}
+.dot.separator.short{
+  height: 65px;
+}
+.content-section{
+  padding-top: 60px;
+  padding-bottom: 60px;
+}
+
+
+/****************** SECTION - Apa itu MANG-JEK ******************/
+#whatis .img-wrapper{
+  background: #fff;
+    padding: 0 20px;
+}
+#whatis img{
+  width: 100%;
+}
+#whatis .image{
+  margin-left: -30px;
+}
+#whatis .text{
+}
+
+.section-title {
+    color: #252525;
+    letter-spacing: 3px;
+    line-height: 40px;
+}
+
+.content-section h2 {
+  font-size: 40px;
+  text-transform: uppercase;
+  padding-top: 15px;
+  margin-top: 0;
+  color: #000;
+  font-weight: 400;
+  letter-spacing: 5px;
+}
+
+
+/****************** SECTION - LAYANAN ******************/
+#new-update {
+  background: url('../images/pattern.png') repeat;
+  /*padding: 50px 50px;*/
+  padding-bottom: 10%;
+}
+#new-update .new-update-list img {
+    width: 90%;
+    margin: 0px 5%;
+    display: block;
+-webkit-transition: all 500ms; /* Safari */
+ transition: all 500ms;    
+}
+#new-update .new-update-list h4 {
+    font-family: 'Roboto', 'sans-serif';
+    text-align: center;
+    padding-bottom: 10px;
+    border-bottom: 1px solid #EA794B;
+    margin-bottom: 10px;
+    margin-top: -30px;
+    font-weight: 500;
+    line-height: 25px;
+    font-size: 18px;
+    color: #575756;
+}
+#new-update .new-update-list p {
+  font-family: 'Yanone Kaffeesatz', 'sans-serif';
+  text-align: center;
+  margin-bottom: 10px;
+
+}
+#new-update .new-update-list img:hover {
+  width: 100%;
+  margin: 0px;
+-webkit-transition: all 500ms; /* Safari */
+ transition: all 500ms;
+ 
+}
+
+#new-update .new-update-list a:hover p,  #new-update .new-update-list a:hover h4{
+
+  color: #1376A0;
+
+}
+
+
+#new-update .section-title {
+}
+
+#new-update .content,
+.why-gotix .content {
+  text-align: center;
+  margin: 0 auto;
+  padding-bottom: 80px;
+}
+
+#new-update .content h2 {
+  font-size: 40px;
+  text-transform: uppercase;
+  padding-top: 15px;
+  margin-top: 0;
+  font-weight: 400;
+  letter-spacing: 5px;
+}
+
+#new-update p {
+
+  color: #575756;
+}
+
+
+/****************** SECTION - WHY MANG-JEK ******************/
+
+
+
+.imgae-border-hover-section {
+  margin-top: -3px; }
+
+.what_section_img {
+  margin: auto; }
+
+/****************** SECTION - BLOG ******************/
+
+
+.section-top-align {
+  margin-top: 40px;
+  color: #575756;
+  margin-bottom: 20px;
+}
+
+.section-top-align h2 {
+  font-size: 40px;
+  text-transform: uppercase;
+  padding-top: 15px;
+  margin-top: 0;
+  color: #000;
+  font-weight: 400;
+  letter-spacing: 5px;
+}
+
+.section-bottom-align {
+  margin-bottom: 20px; }
+
+
+.btn-default {
+  background-color: #f5f5f5; }
+
+.fa-angle-right, .fa-angle-down, .panel-heading, .image-border-hover {
+  cursor: pointer; }
+
+.image-border-hover
+{
+  color: white;
+/*  opacity: 1;*/
+  /*background-color: rgba(245,245,245);
+  background : transparent;*/
+  width: 25%;
+  background: #FFCC00;
+  border-radius: 100%;
+  margin-left: 80px;
+  transition-property: background, border-radius;
+    transition-duration: 1s;
+    transition-timing-function: linear;
+  margin-left: 5x;
+}
+
+/*.image-border-hover:hover
+{
+  opacity: 0.2;
+  
+  background: #FFCC00;
+  border-radius: 80%;
+  font-style:bold;
+}*/
+
+/*.image-border-hover img{
+  margin-top: 20px;
+
+}*/
+
+.image-border-hover p {
+ 
+  text-align: center;
+  position: relative;
+  opacity: 0;
+  /*font-size: 17px;*/
+  padding: 10px;
+  color: white;
+  background: rgba(0, 0, 0, 0.6);
+  border-radius: 25%;
+  margin-top: -30px;
+  
+}
+
+.image-border-hover .image-border-hover-desc {
+        position: absolute;
+        left: 0;
+        top: 0;
+        width: 100%;
+        height: 100%;
+        padding-top: 55%;
+        /*background-color: #FFF;*/
+        /*color: black;
+        text-align: center;*/
+        opacity: 0.5;
+        transition: all 0.3s ease-in-out;
+        margin: 0;
+        /*margin-left: 30px;*/
+
+        /*border-radius: 80%;*/
+    }
+
+
+.image-border-hover:hover .image-border-hover-desc {
+        opacity: 1;
+    }
+
+.image-border-hover:hover img{
+  filter: blur(2px);
+
+
+
+  /*-webkit-filter: grayscale(1) blur(3px);
+  -webkit-transform: scale(1.2);
+  -ms-transform: scale(1.2);*/
+  /*transform: scale(1.2);*/
+}
+
+.image-border-hover:hover p {
+        opacity: 1;
+         filter: alpha(opacity=100);
+  -webkit-transform: scale(1);
+  -ms-transform: scale(1);
+  transform: scale(1);
+    }
+
+/*.image-border-hover:hover h1{
+  opacity: 1;
+}*/
+
+
+
+.first2 img, .second2 img {
+  width: 100%; }
+
+.lastdivs_border_bottom {
+  padding-bottom: 20px;
+  box-shadow: 0 2px 2px #d9d9d9; }
+
+.link_btn {
+  border-radius: 50%; }
+
+[class*=' imghvr-'] figcaption, [class^=imghvr-] figcaption {
+  background-color: rgba(0, 117, 194, 0.8); }
+
+
+ 
+    .img1 img{
+        max-width: 100%;
+        height: 100%;
+    }
+    .img1 figcaption {
+        position: absolute;
+        left: 0;
+        top: 0;
+        width: 87%;
+        height: 50%;
+        background-color: #fff;
+        color: white;
+        text-align: center;
+        opacity: 0;
+        transition: all 0.3s ease-in-out;
+        margin: 0;
+        margin-left: 30px;
+
+        border-radius: 5px;
+    }
+    .img1:hover figcaption {
+        opacity: 0.5;
+    }
+
+.bg-default-dark {
+  background-color: #EDEDED; }
+
+.lastdivs_border_bottom {
+  padding-bottom: 20px;
+  box-shadow: 0 2px 2px #989898; }
+
+.div_align {
+  margin-top: -15px; }
+
+  .how_text {
+  padding: 20px 12px  0 12px; }
+
+.radius_5, .table, .table > thead > tr, .nav-sidebar > .nav > .active a {
+  border-radius: 5px; }
+
+  .hr_color {
+  border-bottom: 1px solid #aaaaaa; }
+
+  #blog .breadcrumb{
+
+    font-size: 14px;
+    color: #BDBDBD;
+    margin-left: -10px;
+  }
+
+  #blog{
+    padding-top:80px;
+    padding-bottom:80px;
+  }
+
+
+/******************* JOIN *****************************/
+
+.Want_to_see {
+  box-shadow: 0 2px 2px #d9d9d9;
+  background-color: #f3faff; }
+
+.Want_to_see i {
+  font-size: 70px;
+  color: #c2d8e6; }
+
+.see_full_align {
+  margin: 20px 0 40px 0; }
+
+.btn-info, .alert-info {
+  box-shadow: 0px 3px 0px #787ded; }
+
+
+/********************* GALERY ***********************/
+.modal-dialog {}
+.thumbnail {margin-bottom:6px;}
+
+#gallery {
+
+background: url('../images/pattern.png') repeat;
+  /*padding: 50px 50px;*/
+  padding-bottom: 10%;
+
+}
+
+#gallery h2{
+
+
+
+  font-size: 40px;
+  text-transform: uppercase;
+  padding-top: 15px;
+  margin-top: 0;
+  font-weight: 400;
+  letter-spacing: 5px;
+
+
+}
+
+/*========================================================
+                     FOOTER  Styles
+=========================================================*/
+footer {
+  background: #0D6485;
+  padding-top: 50px;
+  padding-bottom: 50px;
+}
+footer:before,
+footer:after {
+  content: " ";
+  display: table;
+}
+footer:after {
+  clear: both;
+}
+footer .brand_slogan {
+  color: #a1a194;
+}
+footer .brand:before {
+  background: #a1a194;
+}
+@media (max-width: 767px) {
+  footer {
+    text-align: center;
+  
+   
+  }
+
+  footer .brand {
+    margin-left: -100px;
+   
+  }
+
+  footer .copyright {
+    
+font-size: 10px;
+  }
+}
+
+/*==================     Brand     ======================*/
+.brand {
+  display: block;
+  padding-left: 120px;
+  position: absolute;
+  color: #fff;
+}
+.brand_name {
+  overflow: hidden;
+  text-transform: capitalize;
+  font-size: 40px;
+  line-height: 40px;
+  letter-spacing: 0.07em;
+}
+.brand_slogan {
+  font-weight: 300;
+  text-transform: uppercase;
+  letter-spacing: 0.07em;
+  font-size: 15px;
+  color: #bbbaba;
+}
+.brand:before {
+  /*content: "\f130";*/
+  position: absolute;
+  color: #fff;
+  left: 5px;
+  top: 5px;
+  height: 92px;
+  width: 92px;
+  background: #99bf38;
+  font-family: 'FontAwesome';
+  font-size: 32px;
+  line-height: 92px;
+  text-align: center;
+  -webkit-border-radius: 50%;
+  -moz-border-radius: 50%;
+  border-radius: 50%;
+}
+@media (max-width: 767px) {
+  .brand {
+    text-align: left;
+  }
+}
+@media (max-width: 479px) {
+  .brand {
+    text-align: left;
+  }
+  .brand_name {
+    font-size: 20px;
+    line-height: 30px;
+  }
+  .brand:before {
+    top: -5px;
+  }
+}
+
+/*==================    Copyright   =====================*/
+.copyright {
+  display: inline;
+  color: #a1a194;
+  font-family: 'Open Sans', sans-serif;
+  font-size: 15px;
+  line-height: 24px;
+}
+
+.mg-add3 {
+  margin-right: 52px;
+  margin-top: -7px;
+}
+
+.color-1 {
+
+  font-size:30px; margin-left:40px; margin-bottom:15px; letter-spacing:3px;
+}
+@media (max-width: 767px) {
+  .mg-add3 {
+    margin: 10px 0;
+     padding-top: 5px;
+     padding-left: 50px;
+  }
+}
+
+.mod-position2 {
+  float: right;
+}
+
+@media (max-width: 767px) {
+  .mod-position2 {
+    float: right;
+    font-size: 20px;
+  }
+  
+  .mg-add3 
+  .fa-facebook,
+  .mg-add3 .fa-twitter,
+  .mg-add3 .fa-google-plus,
+  .mg-add3 .fa-instagram {
+    width: 30px;
+    height: 30px;
+    font-size: 15px;
+    line-height: 30px;
+    background: #464646;
+    margin-left: -5px;
+  }
+
+
+
+  .mod-position2 h4 {
+    font-size: 20px;
+  }
+
+  .inline-list {
+  margin-left:32px;
+  margin-right: -30px;
+}
+
+}
+
+.color-1 h4,
+ {
+  font-size: 20px;
+  line-height: 20px;
+  color: #464646;
+
+}
+
+@media (max-width: 980px) {
+.color-1 h4,
+ {
+    font-size: 16px;
+    line-height: 18px;
+  }
+}
+
+/*==================    Inline-list   ====================*/
+.inline-list {
+  display: inline-block;
+  list-style-type: none;
+}
+.inline-list:before,
+.inline-list:after {
+  content: "";
+  display: table;
+}
+.inline-list:after {
+  clear: both;
+}
+.inline-list li {
+  float: left;
+}
+.inline-list li + li {
+  margin-left: 11px;
+}
+
+
+
+/*==================     Icons     ======================*/
+.fa {
+  display: inline-block;
+  -webkit-border-radius: 50%;
+  -moz-border-radius: 50%;
+  border-radius: 50%;
+  -moz-transition: all 0.5s;
+  -o-transition: all 0.5s;
+  -webkit-transition: all 0.5s;
+  transition: all 0.5s;
+  color: #fff;
+  font-family: 'FontAwesome';
+  text-align: center;
+}
+.fa-facebook,
+.fa-twitter,
+.fa-google-plus,
+.fa-instagram {
+  width: 45px;
+  height: 45px;
+  font-size: 22px;
+  line-height: 45px;
+  background: #464646;
+}
+.fa-facebook:hover {
+  background: #FFCC00;
+}
+.fa-twitter:hover,
+.fa-google-plus:hover,
+.fa-instagram:hover {
+  background: #FFCC00;
+}
+
+/*==================     Mang-Ride     ======================*/
+
+
+#mangride-content .mangride-content-list img {
+    width: 90%;
+    margin: 0px 5%;
+    display: block;
+-webkit-transition: all 500ms; /* Safari */
+ transition: all 500ms;    
+}
+#mangride-content .mangride-content-list h4 {
+    font-family: 'Roboto', 'sans-serif';
+    text-align: center;
+    padding-bottom: 10px;
+    border-bottom: 1px solid #EA794B;
+    margin-bottom: 10px;
+    margin-top: -30px;
+    font-weight: 500;
+    line-height: 25px;
+    font-size: 18px;
+    color: #575756;
+}
+
+#mangride-content .update-content{
+  margin-top: 50px;
+}
+
+#mangride-content .mangride-content-list p {
+  font-family: 'Yanone Kaffeesatz', 'sans-serif';
+  text-align: center;
+  margin-bottom: 10px;
+
+}
+#mangride-content .mangride-content-list img:hover {
+  width: 100%;
+  margin: 0px;
+-webkit-transition: all 500ms; /* Safari */
+ transition: all 500ms;
+ 
+}
+
+#mangride-content .mangride-content-list a:hover p,  #mangride-content .mangride-content-list a:hover h4{
+
+  color: #1376A0;
+
+}
+
+
+#mangride-content .section-title {
+}
+
+#mangride-content .content,
+.why-gotix .content {
+  text-align: center;
+  margin: 0 auto;
+  padding-bottom: 80px;
+}
+
+#mangride-content .content h2 {
+  font-size: 40px;
+  text-transform: uppercase;
+  padding-top: 15px;
+  margin-top: 0;
+  font-weight: 400;
+  letter-spacing: 5px;
+}
+
+#mangride-content p {
+
+  color: #575756;
+}
+
+/********************* EFEK FADE *******************/
+#layanan_isi_detail1 .container, #how-it-work .container, #layanan_isi_download .img-responsive {
+
+   animation-delay: 0.8s;
+    -webkit-animation-delay: 0s;
+    -moz-animation-delay: 0s;
+    -ms-animation-delay: 0s;
+    -o-animation-delay: 0s;
+    animation-duration: 1.3s;
+    -webkit-animation-duration:1.3s
+     -moz-animation-duration:1.3s
+    -ms-animation-duration:1.3s
+    -o-animation-duration:1.3s
+  }
+
+/******************** M-CAR *************/
+/* WHY-US */
+
+#why-us {
+    padding: 60px 0;
+    background: url("../images/why-bg.png") no-repeat center #fefefe;
+    background-size: cover;
+}
+#why-us .section-title{
+  margin-bottom: 20px;
+}
+#why-us .why-us-list{
+  padding-left: 20px;
+}
+#why-us .col-md-2.title{
+  padding: 70px 0 0;
+  margin: 0;
+}
+#why-us .why-us-list .why-us-col{
+  padding: 0;
+  position: relative;
+  overflow: hidden;
+}
+#why-us .why-us-box{
+  height: 340px;
+  width: 100%;
+  background: rgba(255,255,255,0.8);
+  display: table;
+  text-align: center;
+  margin: 1px 2px;
+  transition: all 1s ease;
+  -webkit-transition: all 1s ease;
+  -ms-transition: all 1s ease;
+  -moz-transition: all 1s ease;
+  -o-transition: all 1s ease;
+}
+#why-us .why-us-box .wrapper, #why-us .why-us-detail .wrapper{
+  display: table-cell;
+  vertical-align: middle;
+}
+#why-us .why-us-detail{
+  position: absolute;
+  z-index: 1;
+  background: #0D6485;
+  left: 0;
+  top: 0;
+  height: 340px;
+  width: 100%;
+  color: #fff;
+  padding: 50px 40px 40px;
+  margin: 1px 2px;
+  display: none;
+} 
+#why-us .close-detail-btn{
+  position: absolute;
+  right: 20px;
+  top: 10px;
+  background: none;
+  border: none;
+  display: block;
+  font-weight: 100;
+  font-size: 30px;
+}
+#why-us .close-detail-btn:hover, #why-us .close-detail-btn:focus{
+  opacity: 0.5;
+}
+
+#why-us .section-title{
+    color: #0D6485;
+    letter-spacing: 4px;
+    font-size: 70px;
+    line-height: 85%;
+    font-weight: bold;
+}
+
+#why-us .list-title{
+  font-family: 'Roboto';
+  text-transform: uppercase;
+  font-weight: bold;
+  letter-spacing: 2px;
+  font-size: 14px;
+  line-height: 20px;
+  margin-bottom: 30px;
+  color: #6A6A69;
+}
+
+.read-more-btn{
+  padding: 10px 25px;
+  border: 1px solid #0D6485;
+  color: #0D6485;
+  background: none;
+  outline: none;
+  text-transform: uppercase;
+  font-size: 14px;
+  letter-spacing: 0.8px;
+}
+.read-more-btn:hover, .read-more-btn:focus{
+  background: #0D6485;
+  color: #fff;
+}
+.read-more-btn span{
+  padding-left: 10px;
+}
+
+.read-more-bg {
+  text-align: center;
+  background: url("../img/bg-dot-copy.png") repeat #FFF;
+  background-size: 12px;
+  padding: 50px 0;
+  margin-top:60px;
+}
+
+.read-more-bg .read-more-btn{
+  border: 1px solid #0D6485;
+  color: #FFFFFF;
+  background: #EB9BB0;
+}
+
+.read-more-bg .read-more-btn:hover, .read-more-bg .read-more-btn:focus{
+  background: #fff;
+  color: #0D6485;
+}
+
+/************* M-SEND**********************/
+
+#layanan_isi_detail1_msend h2{
+
+  text-align: left;
+  font-size: 40px;
+  font-weight: bold;
+  border-left: 3px solid #000;
+  padding: 10px 20px;
+  margin-top: 30px;
+}
+
+#layanan_isi_detail3_msend {
+
+  padding-top: 100px;
+  color: #000;
+}
+
+#layanan_isi_detail3_msend .truknya img{
+  width:25%; height:25%; margin: 20px 35%;
+}
+
+#layanan_isi_detail3_msend h2{
+
+  text-align: right;
+  font-size: 45px;
+  font-weight: bold;
+  border-right: 3px solid #000;
+  padding: 10px 20px;
+  margin-top: 30px;
+}
+
+/**************** JOIN-MANGJEK **********************/
+
+.join-mangjek img{
+
+  width: 100%;
+
+
+}
+
+#judul p{
+
+color: #575756;
+text-align: center;
+
+}
+
+#detail-join h2 {
+    text-align: center;
+    line-height: 30px;
+    font-size: 45px;
+    color: #000;
+    font-weight: bold;
+    letter-spacing: 2px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+#judul {
+
+  margin-top: 70px;
+  margin-bottom: 70px;
+}
+
+#detail-join #kotak-join {
+
+  
+  background-color: #fff;
+  
+  display: block;
+  overflow: auto;
+  padding: 50px 20px;
+  margin-bottom: 100px;
+}
+
+#detail-join .judul_unggul {
+
+  border: 0.5px solid #0D6485;
+  border-radius: 5px;
+  padding-top:20px;
+}
+
+#detail-join #kotak-join .judul_unggul:hover {
+
+  background-color: #0D6485;
+  opacity: 0.8;
+}
