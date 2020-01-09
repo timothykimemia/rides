@@ -1,7 +1,7 @@
 <?php
 defined('BASEPATH') OR exit('No direct script access allowed');
 
-$hostberkas = "http://localhost/";
+$hostberkas = "http://127.0.0.1:8000/";
 
 ?>
 

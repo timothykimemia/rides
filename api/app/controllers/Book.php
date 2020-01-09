@@ -10,7 +10,7 @@ class Book extends REST_Controller {
         $this->load->helper("url");
         $this->load->database();
         $this->load->model('Book_model');
-        date_default_timezone_set('Asia/Jakarta');
+        date_default_timezone_set('Africa/Nairobi');
     }
 
     function index_get() {
@@ -1441,7 +1441,7 @@ class Book extends REST_Controller {
     
     function cancel_transaction_get($idDriver, $idUser, $idTrans){
         $ch = curl_init();
-        curl_setopt($ch, CURLOPT_URL, "http://localhost:90/anold//api/book/send_cancel_signal/".$idDriver."/".$idUser."/".$idTrans);
+        curl_setopt($ch, CURLOPT_URL, "http://127.0.0.1:8000/api/book/send_cancel_signal/".$idDriver."/".$idUser."/".$idTrans);
         curl_setopt($ch, CURLOPT_HEADER, 0);
         $stat = curl_exec($ch);
         curl_close($ch);

@@ -14,8 +14,7 @@ class Layananpijat extends CI_Controller {
 
     public function index() {
         if ($this->session->userdata('email') == NULL) {
-            //
-when the session user is empty back to 'Login'
+            //when the session user is empty back to 'Login'
             redirect(base_url());
         } else {
             $this->load->model('Layananpijat_m');

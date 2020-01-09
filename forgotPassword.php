@@ -30,8 +30,8 @@
 	            
 	            In order to reset your password, please click on the link below:<br>
 	            <a href='
-	            http://localhost:90/anold//resetPassword.php?email=$email&token=$token
-	            '>http://localhost:90/anold//resetPassword.php?email=$email&token=$token</a><br><br>
+	            http://127.0.0.1:8000/resetPassword.php?email=$email&token=$token
+	            '>http://127.0.0.1:8000/resetPassword.php?email=$email&token=$token</a><br><br>
 				
 				
 	            

@@ -258,7 +258,7 @@ SELECT COUNT(id) AS jumlah FROM `driver` WHERE `status` = '3'
         $this->db->query("UPDATE `history_transaksi` SET `status` = '5' WHERE `nomor` = '$idHistoryTransaksi';");
         // API backend ke driver dan pelanggan
         $ch = curl_init();
-        curl_setopt($ch, CURLOPT_URL, "http://localhost:90/anold/api/book/send_cancel_signal/" . $idDriver . "/" . $idPelanggan . "/" . $idTrans);
+        curl_setopt($ch, CURLOPT_URL, "http://127.0.0.1:8000/api/book/send_cancel_signal/" . $idDriver . "/" . $idPelanggan . "/" . $idTrans);
         curl_setopt($ch, CURLOPT_HEADER, 0);
         $stat = curl_exec($ch);
         curl_close($ch);
